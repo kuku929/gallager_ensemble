@@ -1,0 +1,8 @@
+break-cases = fit-or-vertical
+margin = 80
+parse-docstrings = true
+wrap-comments = true
+doc-comments = after-when-possible
+type-decl = sparse
+type-decl-indent = 2
+if-then-else = fit-or-vertical

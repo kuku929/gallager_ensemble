@@ -1,0 +1,8 @@
+(library
+ (name BSC)
+ (modules BSC))
+
+(library
+ (name Ensemble)
+ (modules Ensemble TannerGraph)
+ (libraries BSC))
