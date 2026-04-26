@@ -1,4 +1,4 @@
 (executable
  (public_name Gallager)
  (name main)
- (libraries Ensemble BSC))
+ (libraries Ensemble BSC domainslib))
